@@ -29,7 +29,7 @@ const StudentCard = (props) => {
           </button>
 
           <button
-            className="btn btn-primary btn-sm me-2 mb-2"
+            className="btn btn-info btn-sm me-2 mb-2"
             onClick={props.onEdit}
           >
             Update
